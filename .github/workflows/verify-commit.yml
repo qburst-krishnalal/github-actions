@@ -20,7 +20,7 @@ on:
 
 jobs:
   check-commit-message:
-    name: Check Commit Message
+    name: Verify Commit Message
     runs-on: ubuntu-latest
     steps:
       - name: Check Commit Type
